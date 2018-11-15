@@ -1,0 +1,2 @@
+# lmzhmk
+centos-lamp
